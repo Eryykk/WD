@@ -22,3 +22,11 @@ print(d)
 
 
 #zad 2
+suma = 2 + 2 * 2 / 2.0
+print(suma)
+
+kwadrat = 7 ** 2
+print(kwadrat)
+
+odejmowanie = 2 - 1
+print(odejmowanie)
