@@ -6,7 +6,7 @@ print(a)
 print(b)
 
 x = 1
-y = 2
+y = 3
 print(x)
 print(y)
 
