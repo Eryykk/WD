@@ -1,2 +1,0 @@
-p="helulo"
-print(p)
