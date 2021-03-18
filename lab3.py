@@ -1,2 +1,2 @@
-p="helulo"
-print(p)
+p="helujhgjlo"
+print (p)
