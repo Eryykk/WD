@@ -42,4 +42,4 @@ dyn = piosenka.count("Dyn") + piosenka.count("dyn")
 print("Ring pojawilo sie: %d razy \nDyn pojawilo sie: %d razy" % (la, dyn) )
 
 s = 'this is good'
-print(s.islower())
+print(s.islower()) 
