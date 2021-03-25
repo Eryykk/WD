@@ -1,8 +1,6 @@
 #lab3
 
-
-#Zad3
-
+#Zad1
 zbA = [1 - x for x in range(1, 11)]
 zbB = [4 ** x for x in range(8)]
 zbC = [x for x in zbB if x % 2 == 0]
